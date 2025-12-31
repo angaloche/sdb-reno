@@ -43,11 +43,11 @@
 
 | Catégorie | Budget Prévu | Dépensé | Restant |
 |-----------|--------------|---------|---------|
-| Matériaux | | | |
-| Main d'œuvre | | | |
-| Équipements | | | |
-| Imprévus (10-15%) | | | |
-| **TOTAL** | | | |
+| Matériaux | - | - | - |
+| Main d'œuvre | - | - | - |
+| Équipements | - | - | - |
+| Imprévus (10-15%) | - | - | - |
+| **TOTAL** | - | - | - |
 
 ---
 
@@ -79,20 +79,20 @@
 
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Tuyauterie | | | | | ☐ |
-| Siphons | | | | | ☐ |
-| Raccords | | | | | ☐ |
+| Tuyauterie | - | - | - | - | ☐ |
+| Siphons | - | - | - | - | ☐ |
+| Raccords | - | - | - | - | ☐ |
 
 ### Électricité
 
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | | ☐ |
-| Luminaires | | | 100,00$ | | ☐ |
-| Prises électriques | | | | | ☐ |
-| Interrupteurs | | | | | ☐ |
-| Câblage | | | | | ☐ |
-| **SOUS-TOTAL ÉLECTRICITÉ** | | | **180,00$** | | |
+| Luminaires | - | - | 100,00$ | - | ☐ |
+| Prises électriques | - | - | - | - | ☐ |
+| Interrupteurs | - | - | - | - | ☐ |
+| Câblage | - | - | - | - | ☐ |
+| **SOUS-TOTAL ÉLECTRICITÉ** | - | - | **180,00$** | - | - |
 
 ### Meubles et Rangements
 
@@ -107,10 +107,10 @@
 
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Peinture | | | | | ☐ |
-| Porte-serviettes | | | | | ☐ |
-| Distributeur savon | | | | | ☐ |
-| Autres accessoires | | | | | ☐ |
+| Peinture | - | - | - | - | ☐ |
+| Porte-serviettes | - | - | - | - | ☐ |
+| Distributeur savon | - | - | - | - | ☐ |
+| Autres accessoires | - | - | - | - | ☐ |
 
 ---
 
