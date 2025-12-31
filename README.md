@@ -100,8 +100,8 @@
 | ------------------------------ | -------- | ------------- | ------------- | ----------- | ------ |
 | Vanité double lavabo           | 1        | 1 000,00$     | 1 000,00$     |             | ☐      |
 | Armoire pharmacie avec miroirs | 1        | 500,00$       | 500,00$       |             | ☐      |
-| Rangements muraux              |          |               |               |             | ☐      |
-| **SOUS-TOTAL MEUBLES**         |          |               | **1 500,00$** |             |        |
+| Rangements muraux              | -        | -             | -             | - | ☐      |
+| **SOUS-TOTAL MEUBLES**         | -        | -             | **1 500,00$** | - | -      |
 
 ### Accessoires et Finitions
 
@@ -213,7 +213,7 @@ _Insérer ici les photos de l'état actuel et les plans souhaités_
 | Carrelage mur (TRÈS GRANDS carreaux) | 304 pi² | 10,00$/pi² | 3 040$ | ☐ |
 | Colle/Mortier | 5 sacs | 25,00$ | 125$ | ☐ |
 | Coulis/Joints (à estimer) | - | - | - | ☐ |
-| **SOUS-TOTAL CARRELAGE** | | | **4 135$** | |
+| **SOUS-TOTAL CARRELAGE** | - | - | **4 135$** | - |
 
 ### Sanitaires et Plomberie
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
@@ -225,14 +225,14 @@ _Insérer ici les photos de l'état actuel et les plans souhaités_
 | Robinetterie lavabo (2 robinets) | 2 | - | _À déterminer_ | ☐ |
 | Robinetterie douche | 1 | - | _À déterminer_ | ☐ |
 | Robinetterie baignoire | 1 | - | _À déterminer_ | ☐ |
-| **SOUS-TOTAL SANITAIRES** | | | **2 200,00$** | |
+| **SOUS-TOTAL SANITAIRES** | - | - | **2 500,00$** | - |
 
 ### Meubles et Rangements
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Vanité double lavabo | 1 | 1 000,00$ | 1 000,00$ | ☐ |
 | Armoire pharmacie avec miroirs | 1 | 500,00$ | 500,00$ | ☐ |
-| **SOUS-TOTAL MEUBLES** | | | **1 500,00$** | |
+| **SOUS-TOTAL MEUBLES** | - | - | **1 500,00$** | - |
 
 ### Électricité et Ventilation
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
@@ -240,7 +240,7 @@ _Insérer ici les photos de l'état actuel et les plans souhaités_
 | Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | ☐ |
 | Luminaires/Spots encastrés | - | - | 100,00$ | ☐ |
 | Prises et interrupteurs (si nécessaire) | - | - | - | ☐ |
-| **SOUS-TOTAL ÉLECTRICITÉ** | | | **180,00$** | |
+| **SOUS-TOTAL ÉLECTRICITÉ** | - | - | **180,00$** | - |
 
 ### Fenêtre
 | Article | Quantité | Prix | À acheter |
