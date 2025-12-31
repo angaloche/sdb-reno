@@ -13,12 +13,14 @@
 | Sanitaires               | 2 200$         |
 | Meubles                  | 1 500$         |
 | Électricité              | 180$           |
-| **SOUS-TOTAL MATÉRIAUX** | **8 015$**     |
+| Accessoires              | 100$           |
+| Peinture                 | 100$           |
+| **SOUS-TOTAL MATÉRIAUX** | **8 215$**     |
 |                          |                |
 | Main d'œuvre (à estimer) | _À déterminer_ |
 | Imprévus (10-15%)        | _À déterminer_ |
 |                          |                |
-| **TOTAL ESTIMÉ**         | **8 015$ +**   |
+| **TOTAL ESTIMÉ**         | **8 215$ +**   |
 
 ---
 
@@ -341,11 +343,13 @@ _Noter ici les idées de design, couleurs, styles_
 | Sanitaires               | 2 200$         |
 | Meubles                  | 1 500$         |
 | Électricité              | 180$           |
-| **SOUS-TOTAL MATÉRIAUX** | **8 015$**     |
+| Accessoires              | 100$           |
+| Peinture                 | 100$           |
+| **SOUS-TOTAL MATÉRIAUX** | **8 215$**     |
 |                          |                |
 | Imprévus (10-15%)        | _À déterminer_ |
 |                          |                |
-| **TOTAL ESTIMÉ**         | **8 015$ +**   |
+| **TOTAL ESTIMÉ**         | **8 215$ +**   |
 
 ---
 
