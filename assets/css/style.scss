@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Cacher le bouton "View on GitHub" */
+.btn {
+  display: none !important;
+}
+
+/* Améliorer l'affichage des tableaux */
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+table th {
+  background-color: #f6f8fa;
+  font-weight: bold;
+}
