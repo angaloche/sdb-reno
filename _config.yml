@@ -1,6 +1,6 @@
 title: Projet Rénovation Salle de Bain
 description: Budget et planification pour la rénovation de salle de bain
-theme: cayman
+theme: jekyll-theme-cayman
 
 # Configuration markdown
 markdown: kramdown
