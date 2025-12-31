@@ -242,6 +242,7 @@ _Noter ici les idées de design, couleurs, styles_
 ## 📋 RÉSUMÉ DES ACHATS - LISTE DE MAGASINAGE
 
 ### Carrelage et Revêtements
+
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Carrelage sol (petits carreaux) | 97 pi² | 10,00$/pi² | 970$ | ☐ |
@@ -251,6 +252,7 @@ _Noter ici les idées de design, couleurs, styles_
 | **SOUS-TOTAL CARRELAGE** | - | - | **4 135$** | - |
 
 ### Sanitaires et Plomberie
+
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | WC suspendu blanc (Yuan Home) | 1 | 600,00$ | 600,00$ | ☐ |
@@ -263,6 +265,7 @@ _Noter ici les idées de design, couleurs, styles_
 | **SOUS-TOTAL SANITAIRES** | - | - | **2 500,00$** | - |
 
 ### Meubles et Rangements
+
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Vanité double lavabo | 1 | 1 000,00$ | 1 000,00$ | ☐ |
@@ -270,6 +273,7 @@ _Noter ici les idées de design, couleurs, styles_
 | **SOUS-TOTAL MEUBLES** | - | - | **1 500,00$** | - |
 
 ### Électricité et Ventilation
+
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | ☐ |
@@ -278,11 +282,13 @@ _Noter ici les idées de design, couleurs, styles_
 | **SOUS-TOTAL ÉLECTRICITÉ** | - | - | **180,00$** | - |
 
 ### Fenêtre
+
 | Article | Quantité | Prix | À acheter |
 |---------|----------|------|-----------|
 | Fenêtre 2×2 pi avec cadre blanc | 1 | _Existante_ | - |
 
 ### Divers
+
 | Article | Quantité | Prix | À acheter |
 |---------|----------|------|-----------|
 | Peinture (zones non carrelées) | - | - | ☐ |
