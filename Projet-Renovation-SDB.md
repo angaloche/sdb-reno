@@ -40,6 +40,7 @@
 ## Budget Prévisionnel
 
 ### Récapitulatif
+
 | Catégorie | Budget Prévu | Dépensé | Restant |
 |-----------|--------------|---------|---------|
 | Matériaux | | | |
@@ -53,6 +54,7 @@
 ## Matériaux et Équipements
 
 ### Sanitaires
+
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | WC suspendu Eridanus Hampton 1.6 GPF avec siège | 1 | 600,00$ | 600,00$ | Wayfair | ☐ |
@@ -63,6 +65,7 @@
 | **SOUS-TOTAL SANITAIRES** | - | - | **2 500,00$** | - | - |
 
 ### Carrelage et Revêtements
+
 | Article                  | Surface (pi²)    | Prix/pi² | Prix Total | Fournisseur | Acheté |
 | ------------------------ | ---------------- | -------- | ---------- | ----------- | ------ |
 | Carrelage sol            | 97 (88 + 10%)    | 10,00$   | 970$       | - | ☐      |
@@ -73,6 +76,7 @@
 | **SOUS-TOTAL CARRELAGE** | -                | -        | **4 135$** | - | -      |
 
 ### Plomberie
+
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | Tuyauterie | | | | | ☐ |
@@ -80,6 +84,7 @@
 | Raccords | | | | | ☐ |
 
 ### Électricité
+
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | | ☐ |
@@ -90,6 +95,7 @@
 | **SOUS-TOTAL ÉLECTRICITÉ** | | | **180,00$** | | |
 
 ### Meubles et Rangements
+
 | Article                        | Quantité | Prix Unitaire | Prix Total    | Fournisseur | Acheté |
 | ------------------------------ | -------- | ------------- | ------------- | ----------- | ------ |
 | Vanité double lavabo           | 1        | 1 000,00$     | 1 000,00$     |             | ☐      |
@@ -98,6 +104,7 @@
 | **SOUS-TOTAL MEUBLES**         |          |               | **1 500,00$** |             |        |
 
 ### Accessoires et Finitions
+
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | Peinture | | | | | ☐ |
