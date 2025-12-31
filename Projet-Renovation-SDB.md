@@ -5,6 +5,23 @@
 
 ---
 
+## 💰 BUDGET ESTIMÉ
+
+| Catégorie                | Montant        |
+| ------------------------ | -------------- |
+| Carrelage et Revêtements | 4 135$         |
+| Sanitaires               | 2 200$         |
+| Meubles                  | 1 500$         |
+| Électricité              | 180$           |
+| **SOUS-TOTAL MATÉRIAUX** | **8 015$**     |
+|                          |                |
+| Main d'œuvre (à estimer) | _À déterminer_ |
+| Imprévus (10-15%)        | _À déterminer_ |
+|                          |                |
+| **TOTAL ESTIMÉ**         | **8 015$ +**   |
+
+---
+
 ## Informations Générales
 
 ### Objectifs du Projet
