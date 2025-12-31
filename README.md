@@ -17,7 +17,6 @@
 | Peinture                 | 100$           |
 | **SOUS-TOTAL MATÉRIAUX** | **8 515$**     |
 |                          |                |
-| Main d'œuvre (à estimer) | _À déterminer_ |
 | Imprévus (10-15%)        | _À déterminer_ |
 |                          |                |
 | **TOTAL ESTIMÉ**         | **8 515$ +**   |
