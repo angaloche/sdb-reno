@@ -116,19 +116,14 @@
 - [ ] Traitement de l'humidité
 - [ ] Préparation des murs et sols
 
-**Dates:** _À définir_
-
-### Phase 4 : Installation
+### Phase 2 : Installation
 - [ ] Pose du carrelage sol
 - [ ] Pose du carrelage mur
 - [ ] Installation de la douche/baignoire
 - [ ] Installation du lavabo
 - [ ] Installation du WC
 - [ ] Installation de la robinetterie
-
-**Dates:** _À définir_
-
-### Phase 5 : Finitions
+### Phase 3 : Finitions
 - [ ] Joints de carrelage
 - [ ] Peinture
 - [ ] Installation des luminaires
@@ -189,10 +184,6 @@ _Insérer ici les photos de l'état actuel et les plans souhaités_
 
 ---
 
-## Notes et Idées
-
-### Inspiration
-_Noter ici les idées de design, couleurs, styles_
 
 ### Liens Produits
 - **WC suspendu Eridanus Hampton** (Wayfair): https://www.wayfair.ca/Eridanus--Eridanus-Hampton-1.6-Gallons-GPF-Elongated-Wall-Mounted-Wall-Hung-Toilets-Seat-Included--ERIWT4210-L587-K~ANIU1675.html
@@ -204,32 +195,6 @@ _Noter ici les idées de design, couleurs, styles_
 ![Baignoire autoportante 71 po Costco](https://bfasset.costco-static.com/U447IH35/as/98jm3f6b76q9977hpcbmc2c/4000266777-894_white_3?auto=webp&format=jpg&width=1200&height=1200&fit=bounds&canvas=1200,1200)
 
 
-
-
----
-
-## Suivi et Révisions
-
-### Réunions de Suivi
-| Date | Participants | Sujets Abordés | Décisions |
-|------|--------------|----------------|-----------|
-| | | | |
-
-### Modifications du Projet
-| Date | Description de la Modification | Impact Budget | Impact Planning |
-|------|-------------------------------|---------------|-----------------|
-| | | | |
-
----
-
-## Clôture du Projet
-
-- [ ] Réception des travaux
-- [ ] Vérification de la conformité
-- [ ] Paiement final
-- [ ] Récupération des garanties
-- [ ] Photos finales
-- [ ] Bilan financier final
 
 ---
 
@@ -323,12 +288,4 @@ _Noter ici les idées de design, couleurs, styles_
 
 ---
 
-## ✅ CHECKLIST AVANT ACHAT
-
-- [ ] Vérifier les dimensions exactes de tous les éléments
-- [ ] Confirmer la disponibilité en magasin
-- [ ] Comparer les prix entre fournisseurs
-- [ ] Vérifier les délais de livraison
-- [ ] S'assurer que tous les articles sont retournables
-- [ ] Prévoir 10-15% supplémentaire pour les imprévus
 
