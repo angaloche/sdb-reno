@@ -25,3 +25,57 @@ table th {
   background-color: #f6f8fa;
   font-weight: bold;
 }
+
+/* Style spécial pour le tableau BUDGET ESTIMÉ */
+#-budget-estimé + table,
+h2:contains("BUDGET ESTIMÉ") + table {
+  margin: 2rem auto;
+  border: 3px solid #2c5282;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 1.1em;
+}
+
+#-budget-estimé + table th,
+h2:contains("BUDGET ESTIMÉ") + table th {
+  background: linear-gradient(135deg, #2c5282 0%, #3182ce 100%);
+  color: white;
+  font-size: 1.2em;
+  padding: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+#-budget-estimé + table td {
+  padding: 0.8rem;
+  font-size: 1.05em;
+}
+
+#-budget-estimé + table tr:nth-child(even) {
+  background-color: #f7fafc;
+}
+
+#-budget-estimé + table tr:hover {
+  background-color: #e6f2ff;
+  transition: background-color 0.2s;
+}
+
+/* Mise en valeur des totaux */
+#-budget-estimé + table td strong,
+#-budget-estimé + table strong {
+  color: #2c5282;
+  font-size: 1.15em;
+}
+
+/* Style pour le titre BUDGET ESTIMÉ */
+h2#-budget-estimé {
+  text-align: center;
+  color: #2c5282;
+  font-size: 2em;
+  margin: 2rem 0 1rem 0;
+  padding: 1rem;
+  background: linear-gradient(135deg, #e6f2ff 0%, #f7fafc 100%);
+  border-radius: 8px;
+  border-left: 5px solid #2c5282;
+}
