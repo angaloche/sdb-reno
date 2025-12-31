@@ -1,6 +1,6 @@
 # Projet de Rénovation - Salle de Bain.
 
-**Date de début:** 29 décembre 2025
+**Date de début:** 29 décembre 2024
 **Statut:** En planification
 
 ---

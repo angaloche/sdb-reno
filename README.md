@@ -1,6 +1,6 @@
 # Projet de Rénovation - Salle de Bain.
 
-**Date de début:** 29 décembre 2025
+**Date de début:** 29 décembre 2024
 **Statut:** En planification
 
 ---
@@ -41,85 +41,78 @@
 ## Budget Prévisionnel
 
 ### Récapitulatif
-
 | Catégorie | Budget Prévu | Dépensé | Restant |
 |-----------|--------------|---------|---------|
-| Matériaux | - | - | - |
-| Main d'œuvre | - | - | - |
-| Équipements | - | - | - |
-| Imprévus (10-15%) | - | - | - |
-| **TOTAL** | - | - | - |
+| Matériaux | | | |
+| Main d'œuvre | | | |
+| Équipements | | | |
+| Imprévus (10-15%) | | | |
+| **TOTAL** | | | |
 
 ---
 
 ## Matériaux et Équipements
 
 ### Sanitaires
-
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | WC suspendu Eridanus Hampton 1.6 GPF avec siège | 1 | 600,00$ | 600,00$ | Wayfair | ☐ |
-| Base douche 32×48 (pierre/effet pierre) | 1 | 300,00$ | 300,00$ | - | ☐ |
-| Cabine douche (parois + porte verre) | 1 | 300,00$ | 300,00$ | - | ☐ |
+| Base douche 32×48 (pierre/effet pierre) | 1 | 300,00$ | 300,00$ | | ☐ |
+| Cabine douche (parois + porte verre) | 1 | 300,00$ | 300,00$ | | ☐ |
 | Baignoire autoportante 71 po avec plateau bambou | 1 | 700,00$ | 700,00$ | Costco | ☐ |
-| Robinetterie (lavabo + baignoire + douche) | 1 | 300,00$ | 300,00$ | - | ☐ |
-| **SOUS-TOTAL SANITAIRES** | - | - | **2 500,00$** | - | - |
+| Robinetterie (lavabo + baignoire + douche) | 1 | 300,00$ | 300,00$ | | ☐ |
+| **SOUS-TOTAL SANITAIRES** | | | **2 500,00$** | | |
 
 ### Carrelage et Revêtements
-
 | Article                  | Surface (pi²)    | Prix/pi² | Prix Total | Fournisseur | Acheté |
 | ------------------------ | ---------------- | -------- | ---------- | ----------- | ------ |
-| Carrelage sol            | 97 (88 + 10%)    | 10,00$   | 970$       | - | ☐      |
-| Carrelage mur            | 304 (276 + 10%)  | 10,00$   | 3 040$     | - | ☐      |
-| Colle/Mortier            | 5 sacs (401 pi²) | 25,00$   | 125$       | - | ☐      |
-| Joints sol               | -                | -        | -          | - | ☐      |
-| Joints mur               | -                | -        | -          | - | ☐      |
-| **SOUS-TOTAL CARRELAGE** | -                | -        | **4 135$** | - | -      |
+| Carrelage sol            | 97 (88 + 10%)    | 10,00$   | 970$       |             | ☐      |
+| Carrelage mur            | 304 (276 + 10%)  | 10,00$   | 3 040$     |             | ☐      |
+| Colle/Mortier            | 5 sacs (401 pi²) | 25,00$   | 125$       |             | ☐      |
+| Joints sol               | -                |          |            |             | ☐      |
+| Joints mur               | -                |          |            |             | ☐      |
+| **SOUS-TOTAL CARRELAGE** |                  |          | **4 135$** |             |        |
 
 ### Plomberie
-
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Tuyauterie | - | - | - | - | ☐ |
-| Siphons | - | - | - | - | ☐ |
-| Raccords | - | - | - | - | ☐ |
+| Tuyauterie | | | | | ☐ |
+| Siphons | | | | | ☐ |
+| Raccords | | | | | ☐ |
 
 ### Électricité
-
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | - | ☐ |
-| Luminaires | - | - | 100,00$ | - | ☐ |
-| Prises électriques | - | - | - | - | ☐ |
-| Interrupteurs | - | - | - | - | ☐ |
-| Câblage | - | - | - | - | ☐ |
-| **SOUS-TOTAL ÉLECTRICITÉ** | - | - | **180,00$** | - | - |
+| Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | | ☐ |
+| Luminaires | | | 100,00$ | | ☐ |
+| Prises électriques | | | | | ☐ |
+| Interrupteurs | | | | | ☐ |
+| Câblage | | | | | ☐ |
+| **SOUS-TOTAL ÉLECTRICITÉ** | | | **180,00$** | | |
 
 ### Meubles et Rangements
-
 | Article                        | Quantité | Prix Unitaire | Prix Total    | Fournisseur | Acheté |
 | ------------------------------ | -------- | ------------- | ------------- | ----------- | ------ |
-| Vanité double lavabo           | 1        | 1 000,00$     | 1 000,00$     | - | ☐      |
-| Armoire pharmacie avec miroirs | 1        | 500,00$       | 500,00$       | - | ☐      |
-| Rangements muraux              | -        | -             | -             | - | ☐      |
-| **SOUS-TOTAL MEUBLES**         | -        | -             | **1 500,00$** | - | -      |
+| Vanité double lavabo           | 1        | 1 000,00$     | 1 000,00$     |             | ☐      |
+| Armoire pharmacie avec miroirs | 1        | 500,00$       | 500,00$       |             | ☐      |
+| Rangements muraux              |          |               |               |             | ☐      |
+| **SOUS-TOTAL MEUBLES**         |          |               | **1 500,00$** |             |        |
 
 ### Accessoires et Finitions
-
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Peinture | - | - | - | - | ☐ |
-| Porte-serviettes | - | - | - | - | ☐ |
-| Distributeur savon | - | - | - | - | ☐ |
-| Autres accessoires | - | - | - | - | ☐ |
+| Peinture | | | | | ☐ |
+| Porte-serviettes | | | | | ☐ |
+| Distributeur savon | | | | | ☐ |
+| Autres accessoires | | | | | ☐ |
 
 ---
 
 ## Planning des Travaux
 
 ### Phase 1 : Travaux de Structure
-- [ ] Modification de la plomberie
-- [ ] Modification de l'électricité
+- [ ] Modification de la plomberie 
+- [ ] Modification de l'électricité 
 - [ ] Traitement de l'humidité
 - [ ] Préparation des murs et sols
 
@@ -243,53 +236,47 @@ _Noter ici les idées de design, couleurs, styles_
 ## 📋 RÉSUMÉ DES ACHATS - LISTE DE MAGASINAGE
 
 ### Carrelage et Revêtements
-
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Carrelage sol (petits carreaux) | 97 pi² | 10,00$/pi² | 970$ | ☐ |
 | Carrelage mur (TRÈS GRANDS carreaux) | 304 pi² | 10,00$/pi² | 3 040$ | ☐ |
 | Colle/Mortier | 5 sacs | 25,00$ | 125$ | ☐ |
 | Coulis/Joints (à estimer) | - | - | - | ☐ |
-| **SOUS-TOTAL CARRELAGE** | - | - | **4 135$** | - |
+| **SOUS-TOTAL CARRELAGE** | | | **4 135$** | |
 
 ### Sanitaires et Plomberie
-
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | WC suspendu blanc (Yuan Home) | 1 | 600,00$ | 600,00$ | ☐ |
 | Base douche 32×48 (pierre/effet pierre) | 1 | 300,00$ | 300,00$ | ☐ |
 | Cabine douche (parois + porte verre) | 1 | 300,00$ | 300,00$ | ☐ |
 | Baignoire autoportante blanche | 1 | 700,00$ | 700,00$ | ☐ |
-| Robinetterie lavabo (2 robinets) | 2 | - | 150,00$ | ☐ |
-| Robinetterie douche | 1 | - | 75,00$ | ☐ |
-| Robinetterie baignoire | 1 | - | 75,00$ | ☐ |
-| **SOUS-TOTAL SANITAIRES** | - | - | **2 500,00$** | - |
+| Robinetterie lavabo (2 robinets) | 2 | - | _À déterminer_ | ☐ |
+| Robinetterie douche | 1 | - | _À déterminer_ | ☐ |
+| Robinetterie baignoire | 1 | - | _À déterminer_ | ☐ |
+| **SOUS-TOTAL SANITAIRES** | | | **2 200,00$** | |
 
 ### Meubles et Rangements
-
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Vanité double lavabo | 1 | 1 000,00$ | 1 000,00$ | ☐ |
 | Armoire pharmacie avec miroirs | 1 | 500,00$ | 500,00$ | ☐ |
-| **SOUS-TOTAL MEUBLES** | - | - | **1 500,00$** | - |
+| **SOUS-TOTAL MEUBLES** | | | **1 500,00$** | |
 
 ### Électricité et Ventilation
-
 | Article | Quantité | Prix Unitaire | Prix Total | À acheter |
 |---------|----------|---------------|------------|-----------|
 | Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | ☐ |
 | Luminaires/Spots encastrés | - | - | 100,00$ | ☐ |
 | Prises et interrupteurs (si nécessaire) | - | - | - | ☐ |
-| **SOUS-TOTAL ÉLECTRICITÉ** | - | - | **180,00$** | - |
+| **SOUS-TOTAL ÉLECTRICITÉ** | | | **180,00$** | |
 
 ### Fenêtre
-
 | Article | Quantité | Prix | À acheter |
 |---------|----------|------|-----------|
 | Fenêtre 2×2 pi avec cadre blanc | 1 | _Existante_ | - |
 
 ### Divers
-
 | Article | Quantité | Prix | À acheter |
 |---------|----------|------|-----------|
 | Peinture (zones non carrelées) | - | - | ☐ |
@@ -344,3 +331,4 @@ _Noter ici les idées de design, couleurs, styles_
 - [ ] Vérifier les délais de livraison
 - [ ] S'assurer que tous les articles sont retournables
 - [ ] Prévoir 10-15% supplémentaire pour les imprévus
+
