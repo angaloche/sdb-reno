@@ -17,9 +17,9 @@
 | Peinture                 | 100$           |
 | **SOUS-TOTAL MATÉRIAUX** | **8 515$**     |
 |                          |                |
-| Imprévus (10-15%)        | _À déterminer_ |
+| Imprévus (10%)           | 852$           |
 |                          |                |
-| **TOTAL ESTIMÉ**         | **8 515$ +**   |
+| **TOTAL ESTIMÉ**         | **9 367$**     |
 
 ---
 
@@ -260,9 +260,9 @@ _Insérer ici les photos de l'état actuel et les plans souhaités_
 | Peinture                 | 100$           |
 | **SOUS-TOTAL MATÉRIAUX** | **8 515$**     |
 |                          |                |
-| Imprévus (10-15%)        | _À déterminer_ |
+| Imprévus (10%)           | 852$           |
 |                          |                |
-| **TOTAL ESTIMÉ**         | **8 515$ +**   |
+| **TOTAL ESTIMÉ**         | **9 367$**     |
 
 ---
 
