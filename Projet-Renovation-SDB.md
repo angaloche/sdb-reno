@@ -10,12 +10,12 @@
 | Catégorie                | Montant        |
 | ------------------------ | -------------- |
 | Carrelage et Revêtements | 4 135$         |
-| Sanitaires               | 2 200$         |
+| Sanitaires               | 2 500$         |
 | Meubles                  | 1 500$         |
 | Électricité              | 180$           |
 | Accessoires              | 100$           |
 | Peinture                 | 100$           |
-| **SOUS-TOTAL MATÉRIAUX** | **8 215$**     |
+| **SOUS-TOTAL MATÉRIAUX** | **8 515$**     |
 |                          |                |
 | Main d'œuvre (à estimer) | _À déterminer_ |
 | Imprévus (10-15%)        | _À déterminer_ |
@@ -110,24 +110,7 @@
 
 ## Planning des Travaux
 
-### Phase 1 : Préparation
-- [ ] Prise de mesures complète
-- [ ] Choix des matériaux et équipements
-- [ ] Demande de devis aux artisans
-- [ ] Validation du budget final
-- [ ] Commande des matériaux
-
-**Dates:** _À définir_
-
-### Phase 2 : Démolition
-- [ ] Protection des zones non concernées
-- [ ] Démontage des équipements existants
-- [ ] Démolition des revêtements
-- [ ] Évacuation des gravats
-
-**Dates:** _À définir_
-
-### Phase 3 : Travaux de Structure
+### Phase 1 : Travaux de Structure
 - [ ] Modification de la plomberie 
 - [ ] Modification de l'électricité 
 - [ ] Traitement de l'humidité
@@ -151,44 +134,10 @@
 - [ ] Installation des luminaires
 - [ ] Pose des meubles
 - [ ] Installation des accessoires
-- [ ] Nettoyage final
 
-**Dates:** _À définir_
-
----
-
-## Artisans et Contacts
-
-### Plombier
-- Nom : Ahmed
-- Téléphone : _À compléter_
+_
 
 
-### Électricien
-- Nom : Ahmed
-- Téléphone : _À compléter_
-
-
-### Carreleur
-- Nom : Ahmed
-- Téléphone : _À compléter_
-
-
-### Peintre
-- Nom : Taous
-- Téléphone : _À compléter_
-
-
----
-
-## Dépenses Réelles
-
-### Journal des Dépenses
-| Date | Description | Catégorie | Montant | Mode de Paiement | Reçu |
-|------|-------------|-----------|---------|------------------|------|
-| | | | | | |
-
-**Total dépensé :** _$_
 
 ---
 
@@ -208,7 +157,7 @@
 - Hauteur : 94 po (7 pi 10 po)
 - **Surface : 86 pi²**
 
-#### Mur 2 - Baignoire Autoportante et Douche
+#### Mur 2 - Baignoire Auto-portante et Douche
 - Longueur totale : 11 pi
 - Hauteur carrelage : 96 po (8 pi - sol au plafond)
 - Baignoire autoportante (carrelage complet derrière)
@@ -340,12 +289,12 @@ _Noter ici les idées de design, couleurs, styles_
 | Catégorie                | Montant        |
 | ------------------------ | -------------- |
 | Carrelage et Revêtements | 4 135$         |
-| Sanitaires               | 2 200$         |
+| Sanitaires               | 2 500$         |
 | Meubles                  | 1 500$         |
 | Électricité              | 180$           |
 | Accessoires              | 100$           |
 | Peinture                 | 100$           |
-| **SOUS-TOTAL MATÉRIAUX** | **8 215$**     |
+| **SOUS-TOTAL MATÉRIAUX** | **8 515$**     |
 |                          |                |
 | Imprévus (10-15%)        | _À déterminer_ |
 |                          |                |
