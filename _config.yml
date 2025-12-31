@@ -1,0 +1,20 @@
+title: Projet Rénovation Salle de Bain
+description: Budget et planification pour la rénovation de salle de bain
+theme: cayman
+
+# Configuration markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+# Exclude files
+exclude:
+  - .claude/
+  - .git/
+  - Plan-SDB.md
