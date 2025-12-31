@@ -41,13 +41,14 @@
 ## Budget Prévisionnel
 
 ### Récapitulatif
+
 | Catégorie | Budget Prévu | Dépensé | Restant |
 |-----------|--------------|---------|---------|
-| Matériaux | | | |
-| Main d'œuvre | | | |
-| Équipements | | | |
-| Imprévus (10-15%) | | | |
-| **TOTAL** | | | |
+| Matériaux | - | - | - |
+| Main d'œuvre | - | - | - |
+| Équipements | - | - | - |
+| Imprévus (10-15%) | - | - | - |
+| **TOTAL** | - | - | - |
 
 ---
 
