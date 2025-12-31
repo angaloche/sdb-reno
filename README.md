@@ -57,54 +57,54 @@
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
 | WC suspendu Eridanus Hampton 1.6 GPF avec siège | 1 | 600,00$ | 600,00$ | Wayfair | ☐ |
-| Base douche 32×48 (pierre/effet pierre) | 1 | 300,00$ | 300,00$ | | ☐ |
-| Cabine douche (parois + porte verre) | 1 | 300,00$ | 300,00$ | | ☐ |
+| Base douche 32×48 (pierre/effet pierre) | 1 | 300,00$ | 300,00$ | - | ☐ |
+| Cabine douche (parois + porte verre) | 1 | 300,00$ | 300,00$ | - | ☐ |
 | Baignoire autoportante 71 po avec plateau bambou | 1 | 700,00$ | 700,00$ | Costco | ☐ |
-| Robinetterie (lavabo + baignoire + douche) | 1 | 300,00$ | 300,00$ | | ☐ |
-| **SOUS-TOTAL SANITAIRES** | | | **2 500,00$** | | |
+| Robinetterie (lavabo + baignoire + douche) | 1 | 300,00$ | 300,00$ | - | ☐ |
+| **SOUS-TOTAL SANITAIRES** | - | - | **2 500,00$** | - | - |
 
 ### Carrelage et Revêtements
 | Article                  | Surface (pi²)    | Prix/pi² | Prix Total | Fournisseur | Acheté |
 | ------------------------ | ---------------- | -------- | ---------- | ----------- | ------ |
-| Carrelage sol            | 97 (88 + 10%)    | 10,00$   | 970$       |             | ☐      |
-| Carrelage mur            | 304 (276 + 10%)  | 10,00$   | 3 040$     |             | ☐      |
-| Colle/Mortier            | 5 sacs (401 pi²) | 25,00$   | 125$       |             | ☐      |
-| Joints sol               | -                |          |            |             | ☐      |
-| Joints mur               | -                |          |            |             | ☐      |
-| **SOUS-TOTAL CARRELAGE** |                  |          | **4 135$** |             |        |
+| Carrelage sol            | 97 (88 + 10%)    | 10,00$   | 970$       | - | ☐      |
+| Carrelage mur            | 304 (276 + 10%)  | 10,00$   | 3 040$     | - | ☐      |
+| Colle/Mortier            | 5 sacs (401 pi²) | 25,00$   | 125$       | - | ☐      |
+| Joints sol               | -                | -        | -          | - | ☐      |
+| Joints mur               | -                | -        | -          | - | ☐      |
+| **SOUS-TOTAL CARRELAGE** | -                | -        | **4 135$** | - | -      |
 
 ### Plomberie
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Tuyauterie | | | | | ☐ |
-| Siphons | | | | | ☐ |
-| Raccords | | | | | ☐ |
+| Tuyauterie | - | - | - | - | ☐ |
+| Siphons | - | - | - | - | ☐ |
+| Raccords | - | - | - | - | ☐ |
 
 ### Électricité
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | | ☐ |
-| Luminaires | | | 100,00$ | | ☐ |
-| Prises électriques | | | | | ☐ |
-| Interrupteurs | | | | | ☐ |
-| Câblage | | | | | ☐ |
-| **SOUS-TOTAL ÉLECTRICITÉ** | | | **180,00$** | | |
+| Ventilateur salle de bain | 1 | 80,00$ | 80,00$ | - | ☐ |
+| Luminaires | - | - | 100,00$ | - | ☐ |
+| Prises électriques | - | - | - | - | ☐ |
+| Interrupteurs | - | - | - | - | ☐ |
+| Câblage | - | - | - | - | ☐ |
+| **SOUS-TOTAL ÉLECTRICITÉ** | - | - | **180,00$** | - | - |
 
 ### Meubles et Rangements
 | Article                        | Quantité | Prix Unitaire | Prix Total    | Fournisseur | Acheté |
 | ------------------------------ | -------- | ------------- | ------------- | ----------- | ------ |
-| Vanité double lavabo           | 1        | 1 000,00$     | 1 000,00$     |             | ☐      |
-| Armoire pharmacie avec miroirs | 1        | 500,00$       | 500,00$       |             | ☐      |
-| Rangements muraux              |          |               |               |             | ☐      |
-| **SOUS-TOTAL MEUBLES**         |          |               | **1 500,00$** |             |        |
+| Vanité double lavabo           | 1        | 1 000,00$     | 1 000,00$     | - | ☐      |
+| Armoire pharmacie avec miroirs | 1        | 500,00$       | 500,00$       | - | ☐      |
+| Rangements muraux              | -        | -             | -             | - | ☐      |
+| **SOUS-TOTAL MEUBLES**         | -        | -             | **1 500,00$** | - | -      |
 
 ### Accessoires et Finitions
 | Article | Quantité | Prix Unitaire | Prix Total | Fournisseur | Acheté |
 |---------|----------|---------------|------------|-------------|--------|
-| Peinture | | | | | ☐ |
-| Porte-serviettes | | | | | ☐ |
-| Distributeur savon | | | | | ☐ |
-| Autres accessoires | | | | | ☐ |
+| Peinture | - | - | - | - | ☐ |
+| Porte-serviettes | - | - | - | - | ☐ |
+| Distributeur savon | - | - | - | - | ☐ |
+| Autres accessoires | - | - | - | - | ☐ |
 
 ---
 
