@@ -20,7 +20,7 @@
 | Main d'œuvre (à estimer) | _À déterminer_ |
 | Imprévus (10-15%)        | _À déterminer_ |
 |                          |                |
-| **TOTAL ESTIMÉ**         | **8 215$ +**   |
+| **TOTAL ESTIMÉ**         | **8 515$ +**   |
 
 ---
 
@@ -60,8 +60,8 @@
 | Base douche 32×48 (pierre/effet pierre) | 1 | 300,00$ | 300,00$ | | ☐ |
 | Cabine douche (parois + porte verre) | 1 | 300,00$ | 300,00$ | | ☐ |
 | Baignoire autoportante 71 po avec plateau bambou | 1 | 700,00$ | 700,00$ | Costco | ☐ |
-| Robinetterie (lavabo + baignoire + douche) | | | _À déterminer_ | | ☐ |
-| **SOUS-TOTAL SANITAIRES** | | | **2 200,00$** | | |
+| Robinetterie (lavabo + baignoire + douche) | 1 | 300,00$ | 300,00$ | | ☐ |
+| **SOUS-TOTAL SANITAIRES** | | | **2 500,00$** | | |
 
 ### Carrelage et Revêtements
 | Article                  | Surface (pi²)    | Prix/pi² | Prix Total | Fournisseur | Acheté |
@@ -349,7 +349,7 @@ _Noter ici les idées de design, couleurs, styles_
 |                          |                |
 | Imprévus (10-15%)        | _À déterminer_ |
 |                          |                |
-| **TOTAL ESTIMÉ**         | **8 215$ +**   |
+| **TOTAL ESTIMÉ**         | **8 515$ +**   |
 
 ---
 
